@@ -52,5 +52,7 @@ http://localhost:8765/CURRENCY-EXCHANGE-SERVICE/currency-exchange/from/USD/to/IN
 http://localhost:8765/CURRENCY-CONVERSION-SERVICE/currency-conversion/from/USD/to/INR/quantity/10
 http://localhost:8765/CURRENCY-CONVERSION-SERVICE/currency-conversion-feign/from/USD/to/INR/quantity/10
 
+Api Gateway Configuration
+
 http://localhost:8765/currency-exchange/from/EUR/to/INR
 
